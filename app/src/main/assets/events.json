@@ -1,0 +1,452 @@
+[
+  {"day":5,
+    "month":1,
+    "events":["Shri Ajitnath Bhagwan Nirvan Kalyanak ","Shri Sambhavnath Bhagwan Nirvan Kalyanak" , "Shri Anantnath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":7,
+    "month":1,
+    "events":["Oli Prarambh"]
+  },
+  {"day":9,
+    "month":1,
+    "events":["Shri Sumatinath Bhagwan Nirvan Kalyanak", "Shri Padmaprabha Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":11,
+    "month":1,
+    "events":["Shri Sumatinath Bhagwan Kevalgyan Kalyanak" , "Shri Padmaprabha Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":13,
+    "month":1,
+    "events":["Shri Mahavirswami Bhagwan Janm Kalyanak"]
+  },
+  {"day":15,
+    "month":1,
+    "events":["Shri Siddhachalji Maha Yatra (Chaitri Poonam)"]
+  },
+  {"day":16,
+    "month":1,
+    "events":["Shri Kunthunath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":17,
+    "month":1,
+    "events":["Shri Sheetalnath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":20,
+    "month":1,
+    "events":["Shri Kunthunath Bhagwan Diksha Kalyanak"," Shri Kunthunath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":21,
+    "month":1,
+    "events":["Shri Sheetalnath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":25,
+    "month":1,
+    "events":["Shri Naminath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":28,
+    "month":1,
+    "events":["Shri Anantnath Bhagwan Janma Kalyanak"]
+  },
+  {"day":29,
+    "month":1,
+    "events":["Shri Anantnath Bhagwan Diksha Kalyanak","Shri Anantnath Bhagwan Kevalgyan Kalyanak","Shri Kunthunath Bhagwan Janma Kalyanak"]
+  },
+  {"day":3,
+    "month":2,
+    "events":["Akhaa Treej","Varshi Tap Parna"]
+  },
+  {"day":4,
+    "month":2,
+    "events":["Shri Abhinandan Swami Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":7,
+    "month":2,
+    "events":["Shri Dharmanath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":8,
+    "month":2,
+    "events":["Shri Sumatinath Bhagwan Janma Kalyanak", "Shri Abhinandan Swami Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":9,
+    "month":2,
+    "events":["Shri Sumatinath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":10,
+    "month":2,
+    "events":["Shri Mahavirswami Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":11,
+    "month":2,
+    "events":["Shashan Sthapana Divas"]
+  },
+  {"day":12,
+    "month":2,
+    "events":["Shri Vimalnath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":13,
+    "month":2,
+    "events":[" Shri Ajitnath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":21,
+    "month":2,
+    "events":["Shri Shreyanshnath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":23,
+    "month":2,
+    "events":["Shri Munisuvrat Swami Bhagwan Janma Kalyanak"]
+  },
+  {"day":24,
+    "month":2,
+    "events":["Shri Munisuvrat Swami Bhagwan Nirvan Kalyanak"]
+  },
+
+  {"day":28,
+    "month":2,
+    "events":["Shri Shantinath Bhagwan Janma Kalyanak "," Shri Shantinath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":29,
+    "month":2,
+    "events":["Shri Shantinath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":5,
+    "month":3,
+    "events":[" Shri Dharmanath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":9,
+    "month":3,
+    "events":["Shri Vasupujya Swami Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":12,
+    "month":3,
+    "events":["Shri Suparshvanath Bhagwan Janma Kalyanak"]
+  },
+  {"day":13,
+    "month":3,
+    "events":["Shri Suparshvanath Diksha Kalyanak"]
+  },
+  {"day":19,
+    "month":3,
+    "events":["Shri Aadinath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":22,
+    "month":3,
+    "events":["Shri Vimalnath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":24,
+    "month":3,
+    "events":["Shri Naminath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":6,
+    "month":4,
+    "events":["Shri Mahavirswami Bhagwan Chyavan Kalyanak "," Atthai Prarambh"]
+  },
+  {"day":8,
+    "month":4,
+    "events":["Shri Neminath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":14,
+    "month":4,
+    "events":["Chaumasi Chaudas "," Chaaturmaas Prarambh "," Shri Vasupujya Swami Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":15,
+    "month":4,
+    "events":["Guru Poornima"]
+  },
+  {"day":18,
+    "month":4,
+    "events":[" Shri Shreyanshnath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":22,
+    "month":4,
+    "events":["Shri Anantnath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":23,
+    "month":4,
+    "events":["Shri Naminath Bhagwan Janma Kalyanak"]
+  },
+  {"day":24,
+    "month":4,
+    "events":["Shri Kunthunath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":2,
+    "month":5,
+    "events":["Shri Sumatinath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":5,
+    "month":5,
+    "events":["Shri Neminath Bhagwan Janma Kalyanak"]
+  },
+  {"day":6,
+    "month":5,
+    "events":["Shri Neminath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":7,
+    "month":5,
+    "events":["Shri Parshvanath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":11,
+    "month":5,
+    "events":["Bakri Idd (Ayambil Karvu)"]
+  },
+  {"day":15,
+    "month":5,
+    "events":["Shri Munisuvrat Swami Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":22,
+    "month":5,
+    "events":["Shri Chandraprabhu Swami Bhagwan Nirvan Kalyanak "," Shri Shantinath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":23,
+    "month":5,
+    "events":["Shri Suparshvanath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":26,
+    "month":5,
+    "events":["Paryushan Parv Prarambh"]
+  },
+  {"day":27,
+    "month":5,
+    "events":["Shri Munisuvrat Swami Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":1,
+    "month":6,
+    "events":["Shri Mahavirswami Janm Vaanchan "," 14 Swapna Darshan"]
+  },
+  {"day":4,
+    "month":6,
+    "events":["Samvatsari Mahaparv"]
+  },
+  {"day":9,
+    "month":6,
+    "events":["Shri Suvidhinath Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":30,
+    "month":6,
+    "events":["Shri Neminath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":7,
+    "month":7,
+    "events":["Oli Prarambh"]
+  },
+  {"day":15,
+    "month":7,
+    "events":["Shri Naminath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":5,
+    "month":7,
+    "events":["Shri Sambhavnath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":27,
+    "month":7,
+    "events":[" Shri Padmaprabha Bhagwan Janma Kalyanak "," Shri Neminath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":28,
+    "month":7,
+    "events":["Dhan Teras "," Shri Padmaprabha Bhagwan Diksha Kalyanak"]
+  },
+  {"day":29,
+    "month":7,
+    "events":["Kaali Chaudas"]
+  },
+  {"day":30,
+    "month":7,
+    "events":["Diwali "," Shri Mahavirswami Bhagwan Nirvan Kalyanak"]
+  },
+  {"day":1,
+    "month":8,
+    "events":["Nutan Varshabhinandan "," Gautam Swami Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":5,
+    "month":8,
+    "events":["Gyan Paancham"]
+  },
+  {"day":8,
+    "month":8,
+    "events":["Atthai Prarambh"]
+  },
+  {"day":12,
+    "month":8,
+    "events":[" Shri Aranath Bhagwan Kevalgyan Kalyanak "]
+  },
+  {"day":14,
+    "month":8,
+    "events":["Chaumasi Chaudas"]
+  },
+  {"day":15,
+    "month":8,
+    "events":["Shri Siddhachalji Maha Yatra"]
+  },
+  {"day":25,
+    "month":8,
+    "events":["Shri Mahavirswami Bhagwan Diksha Kalyanak"]
+  },
+  {"day":10,
+    "month":9,
+    "events":[" Shri Aranath Bhagwan Janma Kalyanak "," Shri Aranath Bhagwan Nirvan Kalyanak "]
+  },
+  {"day":11,
+    "month":9,
+    "events":[" Maun Ekadashi "," Shri Aranath Bhagwan Diksha Kalyanak "," Shri Mallinath Bhagwan Janma Kalyanak "," Shri Mallinath Bhagwan Diksha Kalyanak "," Shri Mallinath Bhagwan Kevalgyan Kalyanak "," Shri Naminath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":14,
+    "month":9,
+    "events":["Shri Sambhavnath Bhagwan Janma Kalyanak"]
+  },
+  {"day":15,
+    "month":9,
+    "events":["Shri Sambhavnath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":25,
+    "month":9,
+    "events":["Shri Parshvanath Bhagwan Janma Kalyanak"]
+  },
+  {"day":26,
+    "month":9,
+    "events":["Shri Parshvanath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":27,
+    "month":9,
+    "events":["Shri Chandraprabhu Swami Bhagwan Janma Kalyanak"]
+  },
+  {"day":28,
+    "month":9,
+    "events":["Shri Chandraprabhu Swami Bhagwan Diksha Kalyanak"]
+  },
+  {"day":29,
+    "month":9,
+    "events":["Shri Sheetalnath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":6,
+    "month":10,
+    "events":["Shri Vimalnath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":9,
+    "month":10,
+    "events":["Shri Shantinath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":11,
+    "month":10,
+    "events":["Shri Ajitnath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":14,
+    "month":10,
+    "events":["Shri Abhinandan Swami Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":15,
+    "month":10,
+    "events":["Shri Dharmanath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":21,
+    "month":10,
+    "events":["Shri Padmaprabha Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":27,
+    "month":10,
+    "events":["Shri Sheetalnath Bhagwan Janma Kalyanak"]
+  },
+  {"day":28,
+    "month":10,
+    "events":["Meru Teras "," Shri Aadinath Bhagwan Nirvan Kalyanak","Shri Sheetalnath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":30,
+    "month":10,
+    "events":["Shri Shreyanshnath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":2,
+    "month":11,
+    "events":["Shri Abhinandan Swami Bhagwan Janma Kalyanak "," Shri Vasupujya Swami Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":3,
+    "month":11,
+    "events":["Shri Vimalnath Bhagwan Janma Kalyanak "," Shri Dharmanath Bhagwan Janma Kalyanak"]
+  },
+  {"day":4,
+    "month":11,
+    "events":["Shri Vimalnath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":8,
+    "month":11,
+    "events":["Shri Ajitnath Bhagwan Janma Kalyanak"]
+  },
+  {"day":9,
+    "month":11,
+    "events":["Shri Ajitnath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":12,
+    "month":11,
+    "events":["Shri Abhinandan Swami Bhagwan Diksha Kalyanak "," Shri Dharmanath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":21,
+    "month":11,
+    "events":["Shri Suparshvanath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":22,
+    "month":11,
+    "events":["Shri Suparshvanath Bhagwan Nirvan Kalyanak "," Shri Chandraprabhu Swami Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":24,
+    "month":11,
+    "events":["Shri Suvidhinath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":26,
+    "month":11,
+    "events":["Shri Aadinath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":27,
+    "month":11,
+    "events":["Shri Shreyanshnath Bhagwan Janma Kalyanak"]
+  },
+  {"day":28,
+    "month":11,
+    "events":["Shri Shreyanshnath Bhagwan Diksha Kalyanak"]
+  },
+  {"day":29,
+    "month":11,
+    "events":["Shri Vasupujya Swami Bhagwan Janma Kalyanak"]
+  },
+  {"day":30,
+    "month":11,
+    "events":["Shri Vasupujya Swami Bhagwan Diksha Kalyanak"]
+  },
+  {"day":2,
+    "month":12,
+    "events":["Shri Aranath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":4,
+    "month":12,
+    "events":["Shri Mallinath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":6,
+    "month":12,
+    "events":["Atthai Prarambh"]
+  },
+  {"day":8,
+    "month":12,
+    "events":["Shri Sambhavnath Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":12,
+    "month":12,
+    "events":[" Shri Mallinath Bhagwan Nirvan Kalyanak "," Shri Munisuvrat Swami Bhagwan Diksha Kalyanak"]
+  },
+  {
+    "day":13,
+    "month":12,
+    "events":["Chha Gaau Ni Yatra (Palitana) "]
+  },
+  {"day":14,
+    "month":12,
+    "events":["Chaumasi Chaudas"]
+  },
+  {"day":19,
+    "month":12,
+    "events":["Shri Parshvanath Bhagwan Chyavan" , "Shri Parshvanath Bhagwan Kevalgyan Kalyanak"]
+  },
+  {"day":20,
+    "month":12,
+    "events":["Shri Chandraprabhu Swami Bhagwan Chyavan Kalyanak"]
+  },
+  {"day":23,
+    "month":12,
+    "events":["Varshitap Prarambh "," Shri Aadinath Bhagwan Janm", "Shri Adinath Bhagwan Diksha Kalyanak"]
+  }
+]

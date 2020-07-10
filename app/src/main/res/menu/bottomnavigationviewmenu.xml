@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/panchangmenuid"
+        android:icon="@drawable/ic_date_range_white_24dp"
+        android:title="@string/panchang"
+        />
+    <item
+        android:id="@+id/pachkanmenuid"
+        android:title="@string/pachkan_title"
+        android:icon="@drawable/ic_praying_hands_solid"
+        />
+    <item
+        android:id="@+id/musicmenuid"
+        android:title="@string/music_title"
+        android:icon="@drawable/ic_library_music_black_24dp"
+        />
+    <item
+        android:id="@+id/bookmenuid"
+        android:title="@string/book_title"
+        android:icon="@drawable/ic_book_orange_24dp"
+        />
+</menu>

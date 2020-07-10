@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/stavansearchid"
+        android:icon="@drawable/ic_search_orange_24dp"
+        android:title="@string/search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+    <item
+        android:id="@+id/addstavansuggestionmenuid"
+        android:icon="@drawable/ic_add_white_24dp"
+        android:title="@string/enter_your_suggestion"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/shareid"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

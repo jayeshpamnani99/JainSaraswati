@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/chogadiyacardid"
+    android:layout_width="wrap_content"
+    android:layout_height="125dp"
+    app:cardUseCompatPadding="true"
+    app:cardBackgroundColor="@android:color/holo_orange_light">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            >
+
+
+
+            <TextView
+                android:id="@+id/chogadiyastarttimeid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="STime"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="to"
+                />
+
+            <TextView
+                android:id="@+id/chogadiyaendtimeid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="ETime"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+
+            >
+
+            <TextView
+                android:id="@+id/chogadiyatitleid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Chogadiya Title"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textSize="25sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

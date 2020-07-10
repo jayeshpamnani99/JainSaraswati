@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Activities.StartActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_city"
+        android:textSize="25sp"
+        />
+
+
+    <androidx.appcompat.widget.AppCompatAutoCompleteTextView
+        android:id="@+id/placesearchautocompleteid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/city_name"
+        android:layout_gravity="center"
+        android:inputType="textAutoComplete"
+        android:imeOptions="actionDone"
+        android:layout_margin="10dp"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/select_language"
+        android:textSize="25sp"
+        />
+    <RadioGroup
+        android:id="@+id/languageselectradiogroupid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:layout_margin="10dp"
+        >
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="en"
+            android:text="@string/english" />
+
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="gu"
+            android:text="@string/gujarati" />
+        <androidx.appcompat.widget.AppCompatRadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="hi"
+            android:text="@string/hindi" />
+    </RadioGroup>
+    <Button
+        android:id="@+id/startactivitysubmitbuttonid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/get_started"
+        android:textColor="@android:color/white"
+        android:background="@color/colorAccent"
+        android:layout_gravity="center"
+        />
+</LinearLayout>
