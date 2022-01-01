@@ -74,7 +74,6 @@ public class HomeActivity extends AppCompatActivity {
         bottomNavigationView.setSelectedItemId(R.id.panchangmenuid);
 
 
-
     }
 
     void transactFragment(Fragment fragment){
